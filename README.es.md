@@ -29,3 +29,4 @@ Este ejercicio cubre los siguientes fundamentos:
 4. Trabajo con cajas: border, padding y margins.
 5. Overflow.
 6. Uso de un formulario simple.
+pip3 install flask && python3 server.py
